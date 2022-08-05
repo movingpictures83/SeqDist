@@ -1,0 +1,2 @@
+Prefix plugins/SeqDist/example/
+Plugin SeqDist inputfile parameters.seqdist.txt outputfile output_s60_c01_T220.seqdist

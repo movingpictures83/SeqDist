@@ -1,0 +1,2 @@
+fastafile	plugins/SeqDist/example/output_s60_c01_T220.fa
+lookupfile	plugins/SeqDist/example/Tran.dat
